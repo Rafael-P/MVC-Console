@@ -1,0 +1,13 @@
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.exe
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.deps.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.runtimeconfig.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.runtimeconfig.dev.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.csprojAssemblyReference.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.AssemblyInfoInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.AssemblyInfo.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.csproj.CoreCompileInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.genruntimeconfig.cache
